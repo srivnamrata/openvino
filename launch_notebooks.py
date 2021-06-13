@@ -40,9 +40,9 @@ else:
                 "the instructions on "
                 "https://github.com/openvinotoolkit/openvino_notebooks to "
                 "install the notebook requirements in a virtual environment.\n\n"
-                "You can also launch the notebooks without this script by "
-                "activating the virtual environment manually (see step 3 in the "
-                "github page linked above) and typing `jupyter lab notebooks`.\n\n"
+                "After installation, you can also launch the notebooks by "
+                "activating the virtual environment manually (see the README "
+                "on GitHub, linked above) and typing `jupyter lab notebooks`.\n\n"
                 f"Current directory: {curdir}"
                 f"Python executable: {sys.executable}"
             )
